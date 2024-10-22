@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Simon and I'm a student in the field of fullstack development, from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Pedro Simon and I'm a fullstack development student, from Brazil.</h2>
 
 ###
 
